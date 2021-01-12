@@ -41,12 +41,6 @@
     "name": "RETORT LOOP",
     "mount": "Heavy",
     "type": "Cannon",
-    "range": [
-      {
-        "type": "Range",
-        "val": 10
-      }
-    ],
     "tags": [
       {
         "id": "tg_reliable",
@@ -57,6 +51,12 @@
       {
         "name": "0 Charges",
         "on_attack": "When fired, the weapon deals an additional 1d6 kinetic damage per charge, up to a maximum of 3 charges. Once fired, the charges deplete to 0, hit or miss. They also deplete to 0 if you take structure or stress damage.",
+        "range": [
+          {
+            "type": "Range",
+            "val": 10
+          }
+        ],
         "damage": [
           {
             "type": "Kinetic",
@@ -66,6 +66,12 @@
       },{
         "name": "1 Charge",
         "on_attack": "When fired, the weapon deals an additional 1d6 kinetic damage per charge, up to a maximum of 3 charges. Once fired, the charges deplete to 0, hit or miss. They also deplete to 0 if you take structure or stress damage.",
+        "range": [
+          {
+            "type": "Range",
+            "val": 10
+          }
+        ],
         "damage": [
           {
             "type": "Kinetic",
@@ -75,6 +81,12 @@
       },{
         "name": "2 Charges",
         "on_attack": "When fired, the weapon deals an additional 1d6 kinetic damage per charge, up to a maximum of 3 charges. Once fired, the charges deplete to 0, hit or miss. They also deplete to 0 if you take structure or stress damage.",
+        "range": [
+          {
+            "type": "Range",
+            "val": 10
+          }
+        ],
         "damage": [
           {
             "type": "Kinetic",
@@ -84,6 +96,12 @@
       },{
         "name": "3 Charges",
         "on_attack": "When fired, the weapon deals an additional 1d6 kinetic damage per charge, up to a maximum of 3 charges. Once fired, the charges deplete to 0, hit or miss. They also deplete to 0 if you take structure or stress damage.",
+        "range": [
+          {
+            "type": "Range",
+            "val": 10
+          }
+        ],
         "damage": [
           {
             "type": "Kinetic",
