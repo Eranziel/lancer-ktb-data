@@ -96,5 +96,83 @@
     "description": "“Again and again the meatheads over at Visual asked us to ‘help them sell’ the platform. What else could we do? We handed them a power that gods of death and war had coveted since Cain cracked a rock over Abel’s head, and they told us, ‘if we can’t see it, we can’t sell it.’ So we mucked around and made another diadematic little wonder for them, the F-Barrier. It’s brilliant. Of course it is. We’re Exotic Materials, brilliance is easy.”",
     "data_type": "system",
     "aptitude": {}
+  },
+  {
+    "id": "ms_orchidea_placeholder_1",
+    "name": "PLACEHOLDER",
+    "type": "System",
+    "sp": 0,
+    "tags": [],
+    "source": "SSC",
+    "license": "ORCHIDEA",
+    "license_level": 1,
+    "description": "This is a placeholder to prevent errors.",
+    "data_type": "system",
+    "aptitude": {}
+  },
+  {
+    "id": "ms_orchidea_placeholder_2",
+    "name": "PLACEHOLDER",
+    "type": "System",
+    "sp": 0,
+    "tags": [],
+    "source": "SSC",
+    "license": "ORCHIDEA",
+    "license_level": 2,
+    "description": "This is a placeholder to prevent errors.",
+    "data_type": "system",
+    "aptitude": {}
+  },
+  {
+    "id": "ms_orchidea_placeholder_3",
+    "name": "PLACEHOLDER",
+    "type": "System",
+    "sp": 0,
+    "tags": [],
+    "source": "SSC",
+    "license": "ORCHIDEA",
+    "license_level": 3,
+    "description": "This is a placeholder to prevent errors.",
+    "data_type": "system",
+    "aptitude": {}
+  },
+  {
+    "id": "ms_wraith_placeholder_1",
+    "name": "PLACEHOLDER",
+    "type": "System",
+    "sp": 0,
+    "tags": [],
+    "source": "HORUS",
+    "license": "WRAITH",
+    "license_level": 1,
+    "description": "This is a placeholder to prevent errors.",
+    "data_type": "system",
+    "aptitude": {}
+  },
+  {
+    "id": "ms_wraith_placeholder_2",
+    "name": "PLACEHOLDER",
+    "type": "System",
+    "sp": 0,
+    "tags": [],
+    "source": "HORUS",
+    "license": "WRAITH",
+    "license_level": 2,
+    "description": "This is a placeholder to prevent errors.",
+    "data_type": "system",
+    "aptitude": {}
+  },
+  {
+    "id": "ms_wraith_placeholder_3",
+    "name": "PLACEHOLDER",
+    "type": "System",
+    "sp": 0,
+    "tags": [],
+    "source": "HORUS",
+    "license": "WRAITH",
+    "license_level": 3,
+    "description": "This is a placeholder to prevent errors.",
+    "data_type": "system",
+    "aptitude": {}
   }
 ]
