@@ -81,6 +81,7 @@
   {
     "id": "mf_orchidea",
     "source": "SSC",
+    "variant": "BLACK WITCH",
     "name": "ORCHIDEA",
     "mechtype": [
       "Controller",
@@ -169,6 +170,7 @@
    {
     "id": "mf_wraith",
     "source": "HORUS",
+    "variant": "MINOTAUR",
     "name": "WRAITH",
     "mechtype": [
       "Controller"
